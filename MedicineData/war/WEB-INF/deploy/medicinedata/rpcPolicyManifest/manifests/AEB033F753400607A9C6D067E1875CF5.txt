@@ -1,0 +1,2 @@
+serviceClass: org.hackathon.dataconnector.client.GreetingService
+path: A22A65840C079840078DEABFF77656BC.gwt.rpc
